@@ -1,8 +1,11 @@
 # molecularmasscalc
 
 Name: Yash Bandla
+
 Date: 12/24/2022
+
 Project: Molecular Mass Calculator
+
 Description: A simple molecular mass calculator in Python using the molmass library
 
 
