@@ -8,6 +8,8 @@ Project: Molecular Mass Calculator
 
 Description: A simple molecular mass calculator in Python using the molmass library
 
+--------------------------------------------------------------------------------------
+
 
 YOU WILL NEED TO INSTALL MOLMASS IN ORDER FOR THIS TO WORK
 
